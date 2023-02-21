@@ -35,7 +35,17 @@
 
 ---
 
-### :woman_technologist: Just Kidding :
+### :man_technologist: Just Kidding :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi-Kenya.
+
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building robust web and mobile applications.
+
+- :seedling: Community Organizer.
+
+- :zap: In my free time, I work with junior developers, where we help each othe solve bugs.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 
 
