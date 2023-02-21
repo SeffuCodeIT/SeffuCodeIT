@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div id="header" align="center" style="height: 100px; width 150px;">
+<div id="header" align="center" style="height: 300px; width 350px;">
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="100"/>
 </div>
 
@@ -11,7 +11,7 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://mobile.twitter.com/Therealpunduh)">
+  <a href="https://mobile.twitter.com/Therealpunduh">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
